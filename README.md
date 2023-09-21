@@ -27,7 +27,7 @@
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=256&id=VOnRj9vGpXV8&format=png" alt="Selenium" height="50" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://datascientest.com/es/wp-content/uploads/sites/7/2022/12/illu_pandas-82.webp" alt="Pandas" height="50" /></a>
 <a href="https://www.qt.io/" target="_blank"><img style="margin: 10px" src="https://ddgobkiprc33d.cloudfront.net/bfdb2533-84e9-45a1-956a-106722433d3f.png" alt="Qt" height="50" /></a>
 <a href="https://spark.apache.org/docs/latest/api/python/getting_started/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*uhkYtS304Ak70J4UL_KUQg.png" alt="Pyspark" height="50" /></a>
 
