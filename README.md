@@ -1,7 +1,7 @@
 ### <div align="center">I'm Jorge Diaz, a python freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I'm currently working on web scraping and data processing, implementing ETL pipelines.  
+- 🔭 I'm currently working on web scraping and data processing, implementing ETL pipelines, and process automation
   
 
 - 🌱 I'm constantly learning about new technologies and staying up-to-date with the latest developments  
